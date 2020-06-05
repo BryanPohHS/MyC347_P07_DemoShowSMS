@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MyC347_P07_DemoShowSMS"
